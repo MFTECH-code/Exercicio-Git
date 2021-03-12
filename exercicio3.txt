@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Óia a merda acontecendo...
+=======
+EXERCICIO 3
+>>>>>>> bfa76f415a2ef918ed57958c975e008e9c153bd3
